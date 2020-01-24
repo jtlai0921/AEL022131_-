@@ -1,0 +1,7 @@
+print(" 1. 蘋果")
+print(" 2. 香蕉")
+print(" 3. 芒果")
+item=int(input(" 請輸入選項<1~3>： "))
+if (item==1): print(" 英文單字： ","apple")
+if (item==2): print(" 英文單字： ","banana")
+if (item==3): print(" 英文單字： ","mango")
